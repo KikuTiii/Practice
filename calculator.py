@@ -1,5 +1,0 @@
-num1 = input("Enter a Number: ")
-num2 = input("Enter another number: ")
-multiplication = int(num1) * int(num2)
-summ = float(num1) + float(num2)
-print(summ,"\n",multiplication)
